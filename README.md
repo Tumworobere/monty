@@ -1,1 +1,1 @@
-Project monty
+Monty Project
