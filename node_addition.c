@@ -23,3 +23,4 @@ void addnode(stack_t **head, int n)
 	new_node->prev = NULL;
 	*head = new_node;
 }
+
